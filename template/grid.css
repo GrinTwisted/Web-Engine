@@ -1,0 +1,9 @@
+.row{
+    width: 100%;
+    background-color: blue;
+  }
+.container {
+    width: 700px;
+    margin: 0 auto 0 auto;
+    background-color: red;
+  }
